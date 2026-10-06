@@ -87,4 +87,4 @@ The `screenshots` folder contains the screenshots supplied from the completed Ju
 
 ---
 ### Author
-**Sonali Sharma**
+**Anmol Kumar Sharma**
